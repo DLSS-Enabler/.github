@@ -1,0 +1,1 @@
+DLSS Enabler - Unlock DLSS/FSR/XeSS in titles that shipped without a toggle
